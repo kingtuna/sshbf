@@ -2,7 +2,7 @@
 package main
 
 import (
-	"code.google.com/p/go.crypto/ssh"
+	"github.com/google/go.crypto/ssh"
 	"log"
 	"time"
 )
